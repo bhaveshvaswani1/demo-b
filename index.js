@@ -34,7 +34,7 @@ db.once("open", function () {
 
 // mongo db atlas online
 
-// mongoose.connect("mongodb+srv://bhavesh:vaswani123@cluster0.42y4t.mongodb.net/JackFruit?retryWrites=true&w=majority",{
+// mongoose.connect("mongodb+srv://bhavesh:<password>@cluster0.42y4t.mongodb.net/<collection>?retryWrites=true&w=majority",{
 //     useNewUrlParser:true,
 //     useUnifiedTopology:true
 // }).then(()=>{
